@@ -3,6 +3,7 @@ This is a challenge from [Summer of SQL](https://github.com/wjsutton/the_summer_
 
 Skills tested in challenge 3.3:
 - Common Table Expressions (CTEs)
+- Unpivot
 
 
 ## Challenge: Preppin Data 2023 Week 3
